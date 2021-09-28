@@ -1,4 +1,4 @@
-# Karnataka Quiz
+# Karnataka CLI Quiz
 
 - CLI quiz hosted on [repl.it](https://replit.com/) to  test your knowledge about the Indian state of Karnataka.
 - Packages used:
